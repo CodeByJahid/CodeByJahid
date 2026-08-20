@@ -1,4 +1,4 @@
-![I'm a professional front-end web Developer](https://media.licdn.com/dms/image/v2/D5616AQFlHA6mtvRpOA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726688090400?e=1773878400&v=beta&t=JBzg3GCO_4WuXslcDw1xQi6dfpsLfU9kd-t8JG71ehU)
+![I'm a professional front-end web Developer](./Images/Profile-banner-image.png)
 
 # Hi! 👋 I'm Jahid Hossain.
 ### I'm a professional front-end web Developer.
